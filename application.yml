@@ -1,4 +1,3 @@
-server.port=9528
 eureka.client.service-url.defaultZone=http://localhost:8989/eureka,http://localhost:8985/eureka
 spring.application.name=eureka-client
 eureka.instance.prefer-ip-address=true
