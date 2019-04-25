@@ -1,7 +1,7 @@
 spring:
   redis:
     database: 0
-    host: 192.168.64.153
+    host: 192.168.64.61
     port: 6379
     pool:
       max-active: 8
